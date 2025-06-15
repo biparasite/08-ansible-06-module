@@ -211,7 +211,7 @@ if __name__ == '__main__':
 
 **Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`.**
 
-<details> <summary>Запуск playbook 3 раза</summary>
+<details> <summary>Install collection</summary>
 
 ![install](https://github.com/biparasite/08-ansible-06-module/blob/main/task_15.png "install collection")
 
@@ -227,7 +227,7 @@ if __name__ == '__main__':
 
 **Cсылки на collection и tar.gz**
 
-1. [Collection] (https://github.com/biparasite/08-ansible-06-module/tree/main/my_own_collection/my_own_namespace/yandex_cloud_elk/my_module_file_create)
-2. [tar.gz] 9https://github.com/biparasite/08-ansible-06-module/blob/main/my_own_collection/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
+1. [Collection](https://github.com/biparasite/08-ansible-06-module/tree/main/my_own_collection/my_own_namespace/yandex_cloud_elk/my_module_file_create)
+2. [tar.gz](https://github.com/biparasite/08-ansible-06-module/blob/main/my_own_collection/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
 
 ---
